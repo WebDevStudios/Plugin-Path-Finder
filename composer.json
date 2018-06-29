@@ -9,5 +9,9 @@
             "email": "jeremy.ward@webdevstudios.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "files": [
+            "plugin-path-finder.php"
+        ]
+    }
 }
