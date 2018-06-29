@@ -1,0 +1,13 @@
+{
+    "name": "webdevstudios/plugin-path-finder",
+    "description": "A WordPress library to extend WordPress's plugin_dir_path and plugin_dir_url methods.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jeremy Ward",
+            "email": "jeremy.ward@webdevstudios.com"
+        }
+    ],
+    "require": {}
+}
